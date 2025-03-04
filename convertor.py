@@ -77,7 +77,7 @@ st.markdown(
 )
 
 # Title and Description
-st.markdown("<div class='custom-heading'>🚀 Universal Unit Convertor</div>", unsafe_allow_html=True)
+st.markdown("<div class='custom-heading'>🚀 Unit Convertor</div>", unsafe_allow_html=True)
 st.markdown("<p style='text-align: center; font-size: 18px;'>Easily convert between different units of Length, Weight, and Temperature.</p>", unsafe_allow_html=True)
 
 # Sidebar Menu
